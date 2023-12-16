@@ -12,7 +12,6 @@ This project aims to develop a robust email spam classification system using mac
 4. [Screenshots](#screenshots)
 5. [Future Improvements](#future-improvements)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -33,6 +32,9 @@ pip install -r requirements.txt
 ```
 ## Screenshots
 
+<img src="https://github.com/saurav-sabu/Email_Spam_Classification/blob/master/starter.PNG" alt="UI" title="UI DESIGN">
+
+<img src="https://github.com/saurav-sabu/Email_Spam_Classification/blob/master/starter1.PNG" alt="USAGE" title="USAGE">
 
 
 ## Future Improvements
